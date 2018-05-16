@@ -1,0 +1,8 @@
+c:\users\gabriel\documents\visual studio 2012\Projects\keylogger2.0\keylogger2.0\bin\Debug\keylogger2.0.exe.manifest
+c:\users\gabriel\documents\visual studio 2012\Projects\keylogger2.0\keylogger2.0\bin\Debug\keylogger2.0.application
+c:\users\gabriel\documents\visual studio 2012\Projects\keylogger2.0\keylogger2.0\bin\Debug\keylogger2.0.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\keylogger2.0\keylogger2.0\bin\Debug\keylogger2.0.pdb
+c:\users\gabriel\documents\visual studio 2012\Projects\keylogger2.0\keylogger2.0\obj\Debug\keylogger2.0.exe.manifest
+c:\users\gabriel\documents\visual studio 2012\Projects\keylogger2.0\keylogger2.0\obj\Debug\keylogger2.0.application
+c:\users\gabriel\documents\visual studio 2012\Projects\keylogger2.0\keylogger2.0\obj\Debug\keylogger2.0.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\keylogger2.0\keylogger2.0\obj\Debug\keylogger2.0.pdb
